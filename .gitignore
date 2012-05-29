@@ -10,3 +10,10 @@
 *.lai
 *.la
 *.a
+
+#compile temp file
+*.ncb
+*.obj
+*.pdb
+*.idb
+BuildLog.htm

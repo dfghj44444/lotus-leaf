@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MG荷叶", "MG荷叶\MG荷叶.vcproj", "{44963F46-7C49-45A7-80EB-7E904E801A6C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PublicLib", "PublicLib\PublicLib.vcproj", "{47F19924-967C-4AB1-B3B6-33905491251C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44963F46-7C49-45A7-80EB-7E904E801A6C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{44963F46-7C49-45A7-80EB-7E904E801A6C}.Debug|Win32.Build.0 = Debug|Win32
+		{44963F46-7C49-45A7-80EB-7E904E801A6C}.Release|Win32.ActiveCfg = Release|Win32
+		{44963F46-7C49-45A7-80EB-7E904E801A6C}.Release|Win32.Build.0 = Release|Win32
+		{47F19924-967C-4AB1-B3B6-33905491251C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47F19924-967C-4AB1-B3B6-33905491251C}.Debug|Win32.Build.0 = Debug|Win32
+		{47F19924-967C-4AB1-B3B6-33905491251C}.Release|Win32.ActiveCfg = Release|Win32
+		{47F19924-967C-4AB1-B3B6-33905491251C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
